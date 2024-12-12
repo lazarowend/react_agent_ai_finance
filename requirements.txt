@@ -7,7 +7,9 @@ attrs==24.2.0
 cachetools==5.5.0
 certifi==2024.8.30
 charset-normalizer==3.4.0
+click==8.1.7
 dataclasses-json==0.6.7
+duckduckgo_search==6.4.1
 filetype==1.2.0
 frozenlist==1.5.0
 google-ai-generativelanguage==0.6.10
@@ -31,6 +33,7 @@ jsonpointer==3.0.0
 langchain==0.3.11
 langchain-community==0.3.11
 langchain-core==0.3.24
+langchain-experimental==0.3.3
 langchain-google-genai==2.0.7
 langchain-text-splitters==0.3.2
 langsmith==0.2.3
@@ -40,6 +43,7 @@ mypy-extensions==1.0.0
 numpy==2.2.0
 orjson==3.10.12
 packaging==24.2
+primp==0.8.3
 propcache==0.2.1
 proto-plus==1.25.0
 protobuf==5.29.1
